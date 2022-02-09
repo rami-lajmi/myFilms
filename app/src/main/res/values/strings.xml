@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myFilms</string>
+    <string name="search_lbl">Search</string>
+    <string name="no_search_available">You have no recent searches.</string>
+    <string name="visit_website">Visit website</string>
+    <string name="movie_synopsis">Synopsis</string>
+    <string name="no_data_displayed">Nothing to display</string>
+</resources>
